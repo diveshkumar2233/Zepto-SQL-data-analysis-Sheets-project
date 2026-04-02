@@ -131,4 +131,23 @@ CREATE TABLE zepto (
       - Data cleaning
 
       - SQL Business analysis
+  
+  2. **Open zepto_SQL_data_analysis.sql**
+
+    This file contains:
+
+      - Table creation
+
+      - Data exploration
+
+      - Data cleaning
+
+      - SQL Business analysis
+  
+3. **Load the dataset into pgAdmin or any other PostgreSQL client**
+
+      - Create a database and run the SQL file
+
+      - Import the dataset (convert to UTF-8 if necessary)
+
 
