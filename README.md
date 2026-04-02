@@ -113,3 +113,22 @@ CREATE TABLE zepto (
 
 - Measured total inventory weight per product category
 
+- ## 🛠️ How to Use This Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/amlanmohanty/zepto-SQL-data-analysis-project.git
+   cd zepto-SQL-data-analysis-project
+   ```
+2. **Open zepto_SQL_data_analysis.sql**
+
+    This file contains:
+
+      - Table creation
+
+      - Data exploration
+
+      - Data cleaning
+
+      - SQL Business analysis
+
